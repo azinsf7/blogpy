@@ -2,3 +2,5 @@
 venv/
 blog/migrations/
 db.sqlite3/
+.env
+files/
